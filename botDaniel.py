@@ -33,4 +33,12 @@ def skill():
         for j, habilidad in enumerate(skills):
             print(j+1,'',habilidad)
 skill()            
-            
+           
+           
+        
+# Repaso ciclo for
+i = 0
+while i < 12:
+    print("Buen dia")
+    i=+1
+      
